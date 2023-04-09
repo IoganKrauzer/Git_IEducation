@@ -79,4 +79,13 @@ git commit   (пользователя попросят прокомментир
 
 ## 9. Features
 
-![В разработке](images.jpg) 
+Полезные ссылки:
+* Git для новичков I часть  https://habr.com/ru/articles/541258/
+* Git для новичков II часть https://habr.com/ru/articles/542616/
+* Документация по Git на русском https://git-scm.com/book/ru/v2/Введение-О-системе-контроля-версий
+* Тренажер для помощи новичкам в постижении возможностей ветвления и работы в Git  https://learngitbranching.js.org/?locale=ru_RU
+* Полезное расширение для Visual Studio Code, которое визуализирует ваши ветки и commit, и помогает с ними работать.  https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph
+* Отличие по работе с определенной системой контроля версий Git и классическими централизованными СКВ https://habr.com/ru/articles/60030/
+* Информация по введению в работу с Git. Нечто среднее между tutorial и обощенной справкой https://habr.com/ru/articles/60347/
+
+![You are amazing](amazing.jpeg)
