@@ -130,8 +130,6 @@ git checkout <символы из версии>
 git checkout <имя ветки>
 ```
 
-## 8. GitHub
-
 ## 9. Features
 
 Полезные ссылки:
@@ -145,3 +143,5 @@ git checkout <имя ветки>
 * Справочные материалы по Markdown https://learn.microsoft.com/ru-ru/contribute/markdown-reference
 
 ![You are amazing](amazing.jpeg)
+
+## 10. GitHub
