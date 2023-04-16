@@ -1,4 +1,4 @@
-![Logo](Logo.png)
+![Logo](https://github.com/IoganKrauzer/Git_IEducation/blob/master/Logo.png?raw=true)
 
 # Работа с Git и GitHub
 
@@ -20,7 +20,7 @@ git config --global user.email <Ваша почта@example.com>
 ```
 git config --global --list
 ```
-![Пример](GitHub3.png)
+![Пример](https://github.com/IoganKrauzer/Git_IEducation/blob/master/GitHub3.png?raw=true)
 
 ## 4. Инициализация репозитория
 
@@ -89,7 +89,7 @@ git log
 ```
 *Пример:*
 
-![example](example.png)
+![example](https://raw.githubusercontent.com/IoganKrauzer/Git_IEducation/a27b7b38d66a0ef25ac9b005fcedd3a323d9c621/Example.png)
 
 *Таблица. Наиболее распространённые опции для команды git log*
  Команда |Описание 
@@ -112,7 +112,7 @@ git log
 Во время работы над проектом может возникнуть ситуация, когда нескольким пользователям понадобится одновременно вести работу над разными частями проекта. Для этого в Git есть возможность создания ветвлений от файла. 
 По умолчанию имя основной ветки `Master` или `Main`.
 
-![Пример ветвлений](exam.png)
+![Пример ветвлений](https://raw.githubusercontent.com/IoganKrauzer/Git_IEducation/a27b7b38d66a0ef25ac9b005fcedd3a323d9c621/exam.png)
 
 1. Создать ветку можно командой:
 ```
@@ -136,7 +136,7 @@ git branch -d <имя ветки> (удаление ветки, если она 
 Слияние веток осуществляется из ветки в которую пользователь хочет влить изменения.
 Текущая ветка будет отмечена звездочкой `* имя ветки`
 
-![Пример со звездочкой](GitHub5.png)
+![Пример со звездочкой](https://raw.githubusercontent.com/IoganKrauzer/Git_IEducation/a27b7b38d66a0ef25ac9b005fcedd3a323d9c621/GitHub5.png)
 
 ## 8. Переключение между версиями и ветками
 
@@ -148,7 +148,7 @@ git checkout <наименование версии>
 
 *Пример:*
 
-![Пример](ExampleCheck.png)
+![Пример](https://raw.githubusercontent.com/IoganKrauzer/Git_IEducation/a27b7b38d66a0ef25ac9b005fcedd3a323d9c621/ExampleCheck.png)
 
 2. Переключение между ветками проекта осуществляется командой:
 ```
@@ -180,12 +180,12 @@ git checkout -b <имя ветки>
 * Перейдите и зарегистрируйтесь по ссылке https://github.com
 * После процесса регистрации на GitHub пользователю нужно в правом верхнем углу сайта зайти в `New repository`
 
-![Пример GitHub](GitHub1.png) 
+![Пример GitHub](https://raw.githubusercontent.com/IoganKrauzer/Git_IEducation/a27b7b38d66a0ef25ac9b005fcedd3a323d9c621/GitHub1.png) 
 
 * На открывшейся странице заполните следующие поля: `Repository name`, `Discription` (по желанию). Также пользователю будет предложено сделать репозиторий `Public` (каждый посетитель может увидеть ваш репозиторий) или `Private` (пользователь может сам выбрать кто сможет увидеть его репозиторий) Поля: `README file` (по желанию. В этот файл можно внести более подробное описание вашего проекта), `add .gitignore` (по желанию. Содержит список всех указанных файлов и папок проекта, которые Git должен игнорировать и не отслеживать.), `License` (по-желанию. Отвечает за право других пользователей вносить изменения в ваш код)
 * После заполнения полей нажмите зеленую кнопку `Create repository`
 
-![Пример GitHub2](GitHub2.png)
+![Пример GitHub2](https://raw.githubusercontent.com/IoganKrauzer/Git_IEducation/a27b7b38d66a0ef25ac9b005fcedd3a323d9c621/GitHub2.png)
 
 * Для активации вашим удаленным репозиторием на GitHub воспользуйтесь следующими командами:
 ```
@@ -194,11 +194,11 @@ git push -u origin master
 ```
 Если вы успешно активировали соединение с удаленным репозиторием, то вы увидете следующее:
 
-![Пример](GitHub4.png)
+![Пример](https://raw.githubusercontent.com/IoganKrauzer/Git_IEducation/a27b7b38d66a0ef25ac9b005fcedd3a323d9c621/GitHub4.png)
 
 `Если у вас все получилось, то:`
 
-![Победа!](amazing.jpeg)
+![Победа!](https://raw.githubusercontent.com/IoganKrauzer/Git_IEducation/a27b7b38d66a0ef25ac9b005fcedd3a323d9c621/amazing.jpeg)
 
 # 11 Работа с GitHub
 
@@ -216,4 +216,4 @@ git pull
 ```
 `РАЗДЕЛ ЕЩЕ БУДЕТ ДОРАБАТЫВАТЬСЯ`
 
-![В работе](images.jpg)
+![В работе](https://raw.githubusercontent.com/IoganKrauzer/Git_IEducation/a27b7b38d66a0ef25ac9b005fcedd3a323d9c621/images.jpg)
