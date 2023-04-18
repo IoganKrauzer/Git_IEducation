@@ -218,3 +218,4 @@ git pull
 `РАЗДЕЛ ЕЩЕ БУДЕТ ДОРАБАТЫВАТЬСЯ`
 
 ![В работе](https://raw.githubusercontent.com/IoganKrauzer/Git_IEducation/a27b7b38d66a0ef25ac9b005fcedd3a323d9c621/images.jpg)
+
