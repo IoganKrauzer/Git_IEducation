@@ -1,4 +1,4 @@
-![Logo](https://github.com/IoganKrauzer/Git_IEducation/blob/master/Logo.png?raw=true)
+![Logo](https://github.com/IoganKrauzer/Git_IEducation/blob/master/images/Logo.png?raw=true)
 
 # Работа с Git и GitHub
 
